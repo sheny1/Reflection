@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--     //This item is to overlay the container colour with the row background colour -->
+<item
+    android:left="0dp"
+    android:right="0dp">
+    <shape android:shape="rectangle" >
+<!--         <solid android:color="@color/row_background" /> -->
+    </shape>
+</item>
+
+<!-- This item is the divider, put it at bottom so it will overlay the background colour -->
+<item
+    
+    android:left="20dp"
+    android:right="20dp">
+    <shape android:shape="rectangle" >
+        <solid android:color="@android:color/black" />
+    </shape>
+</item>
+
+</layer-list>
