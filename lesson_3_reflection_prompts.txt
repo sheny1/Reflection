@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+if am working with others we have to share the repository using github
