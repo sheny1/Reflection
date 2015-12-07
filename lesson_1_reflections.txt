@@ -11,5 +11,4 @@ i bielieve i can manage to know whats wrong and learn from it
 
 can't know the difference
 
-
 -How can you use the commands git log and git diff to view the history of files?
